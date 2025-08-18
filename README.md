@@ -1,4 +1,4 @@
-````markdown
+
 # 🚀 DSA Practice Repository
 
 Welcome to my **Data Structures & Algorithms (DSA) practice repository**.  
@@ -6,13 +6,6 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ---
 
-## 📊 Repo Stats
-![Progress](https://img.shields.io/badge/Progress-20%25-yellow)  
-![Stars](https://img.shields.io/github/stars/amruta-pikle/dsa-practice?style=social)  
-![Language](https://img.shields.io/github/languages/top/amruta-pikle/dsa-practice)  
-![Last Commit](https://img.shields.io/github/last-commit/amruta-pikle/dsa-practice)  
-
----
 
 ## 📁 Folder Structure
 
@@ -28,7 +21,7 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 ├── 📁 Searching               # 📝 Planned  
 ├── 📁 Recursion_Backtracking  # 📝 Planned  
 ├── 📁 DynamicProgramming      # 📝 Planned  
-├── 📄 notes.md                # 📒 Personal DSA notes  
+├── 📁 notes                   # 📒 Personal DSA notes  
 ├── 📄 daily-progress.md       # 📆 Daily log of progress  
 └── 📄 README.md               # 📌 Project overview  
 ````
@@ -37,7 +30,7 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ## ✅ Goals
 
-* Solve **at least 5 problems daily**
+* Solve **at least 2 problems daily**
 * Cover **all major DSA topics**
 * Maintain **clean & well-documented code**
 * Track progress consistently in `daily-progress.md`
@@ -71,14 +64,6 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ---
 
-## 📌 Progress Tracker
-
-* Arrays: ✅ 100%
-* Strings: 🚧 40%
-* LinkedList: 📝 0%
-* Remaining: 📝 Pending
-
----
 
 ✨ This repository is my learning space. Suggestions and contributions are always welcome!
 
