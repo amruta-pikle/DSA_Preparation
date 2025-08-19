@@ -15,6 +15,11 @@ Mark tasks as ✅ once completed. Keep updating to visualize your consistency.
     * Contains Duplicate
     * Valid Anagram
 
+### Day 2 (📅 2025-08-19)
+
+* [x] Arrays – 2 problems
+    * Two Sum
+    * Group Anagrams
 
 ---
 
