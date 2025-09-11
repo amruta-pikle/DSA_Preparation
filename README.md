@@ -11,8 +11,8 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ```bash
 📦 dsa-practice  
-├── 📁 Arrays                  # ✅ Completed problems on arrays  
-├── 📁 Strings                 # 🚧 In progress  
+├── 📁 Arrays                  # 🚧 In progress 
+├── 📁 Strings                 # 📝 Planned  
 ├── 📁 LinkedList              # 📝 Planned  
 ├── 📁 Stack_Queue             # 📝 Planned  
 ├── 📁 Trees                   # 📝 Planned  
@@ -44,7 +44,7 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ## 🔖 Notes
 
-* Detailed explanations are in [`notes.md`](./notes.md)
+* Certain Topics are explained in [`notes.md`](./notes.md)
 
 ---
 
