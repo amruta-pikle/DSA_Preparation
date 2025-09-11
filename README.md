@@ -22,7 +22,6 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 ├── 📁 Recursion_Backtracking  # 📝 Planned  
 ├── 📁 DynamicProgramming      # 📝 Planned  
 ├── 📁 notes                   # 📒 Personal DSA notes  
-├── 📄 daily-progress.md       # 📆 Daily log of progress  
 └── 📄 README.md               # 📌 Project overview  
 ````
 
@@ -30,10 +29,9 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ## ✅ Goals
 
-* Solve **at least 2 problems daily**
 * Cover **all major DSA topics**
 * Maintain **clean & well-documented code**
-* Track progress consistently in `daily-progress.md`
+
 
 ---
 
@@ -47,7 +45,6 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 ## 🔖 Notes
 
 * Detailed explanations are in [`notes.md`](./notes.md)
-* Daily progress log is in [`daily-progress.md`](./daily-progress.md)
 
 ---
 
