@@ -11,7 +11,7 @@ This repo is my personal journey of mastering **DSA for coding interviews & prob
 
 ```bash
 📦 dsa-practice  
-├── 📁 Arrays_And_Strings                  # 🚧 In progress 
+├── 📁 Arrays_Strings_Hashing                  # 🚧 In progress 
 ├── 📁 Strings                 # 📝 Planned  
 ├── 📁 LinkedList              # 📝 Planned  
 ├── 📁 Stack_Queue             # 📝 Planned  
